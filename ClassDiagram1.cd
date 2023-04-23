@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StoreInterface.Goods">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEACAAAAAgAAAAAIACAACAAgAAAAA=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreInterface.Menu">
+    <Position X="7" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACAAAAAgAAEAAgIAAAAAAAAAAAAAACAgAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreInterface.Muggar">
+    <Position X="1" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAIAAAECAAAAACAEAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Mug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreInterface.Tshirt">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAACAAAAgAAEAIAAAAAAkAAAAAAAAABAAABAAAA=</HashCode>
+      <FileName>Tshirt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoreInterface.Program" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAQQAAAAAABAAAgAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="StoreInterface.muggsTyp" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Mug.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StoreInterface.materialType" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tshirt.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
